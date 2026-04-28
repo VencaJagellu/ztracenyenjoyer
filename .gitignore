@@ -1,0 +1,11 @@
+# Sensistive files with API keys
+proxy.php
+check_key.php
+
+# Local server config
+.htaccess
+php.ini
+
+# OS files
+.DS_Store
+Thumbs.db
